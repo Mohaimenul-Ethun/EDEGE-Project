@@ -1,1 +1,1 @@
-# EDEGE-Project
+# EDGE-Project
